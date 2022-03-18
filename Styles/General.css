@@ -1,0 +1,140 @@
+* {
+	font-family: 'Bai Jamjuree', sans-serif;
+}
+
+.container_principal {
+	text-align: center;
+}
+
+.container_img img{
+	width: 5%;
+	min-width: 75px;
+}
+
+.container_tittle, .container_tittle2, .container_tittle3 {
+	font-weight: 600;
+	color: hsl(210, 10%, 33%);
+}
+
+.container_tittle {
+	font-size: 1.25em;
+}
+
+.container_tittle2 {
+	font-size: 1.20em;
+}
+
+.container_tittle3 {
+	font-size: 1.15em;
+}
+
+.container_big-text, .container_normal-text, .container_mini-text {
+	font-weight: 400;
+	color: hsl(201, 11%, 66%);
+	line-height: 2em;
+}
+
+.container_big-text {
+	font-size: 1.15em;
+}
+
+.container_normal-text {
+	font-size: 1.10em;
+	padding: 1em;
+}
+
+.container_mini-text {
+	font-size: 1em;
+}
+
+.container_buttons {
+	padding: 2em;
+}
+
+.button_iOS, .button_Mac {
+	border-radius: 60px;
+	margin: 0 0.25em;
+	padding: 1em 1.5em;
+	color: #fff;
+	border: none;
+}
+
+.button_iOS:hover, .button_Mac:hover {
+	cursor: pointer;
+	box-shadow: 0 3px 5px #aaa;
+}
+
+.button_iOS {
+	background: hsl(171, 66%, 44%);
+}
+
+.button_Mac {
+	background: hsl(233, 100%, 69%);
+}
+
+header {
+	margin: 0 0 3em 0;
+}
+
+.container_2 {
+	text-align: center;
+	margin: 3em;
+}
+
+.container_3 {
+	margin: 3em;
+}
+
+.container_4, .container_5 {
+	text-align: center;
+	margin: 3em 0;
+}
+
+.container_6 {
+	text-align: center;
+	margin: 1em 0 3em 0;
+}
+
+.container_7 {
+	margin: 5em 0;
+}
+
+.container_8 {
+	margin: 5em 0 6em;
+	background: #eee2;
+}
+
+.container_9 {
+	text-align: center;
+	margin: 5em 0;
+}
+
+footer {
+	background: #eee;
+	margin-top: 4em;
+	padding: 2em;
+}
+
+.container_footer-img img {
+	width: 5%;
+	min-width: 50px;
+}
+
+.container_footer-links a {
+	display: block;
+	color: #8A979D;
+}
+
+.container_footer-links a:hover {
+	color: hsl(171, 66%, 44%);
+}
+
+.container_icons i {
+	transition: 0.25s;
+	font-size: 1.5em;
+	margin: 0 0.5em;
+}
+
+.container_icons i:hover{
+	color: hsl(171, 66%, 44%);
+}
